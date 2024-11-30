@@ -25,9 +25,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* main {
+main {
   flex: 1;
-} */
+}
 
 * {
   box-sizing: border-box;
